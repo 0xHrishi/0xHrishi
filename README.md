@@ -1,16 +1,14 @@
-## Hi there 👋
+Welcome! 🚀  
+My name is **Hrishi Dilip Ghosalkar**, and I am currently working towards my **OSCP (Offensive Security Certified Professional) certification**.  
 
-<!--
-**0xHrishi/0xHrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is designed for **learners** who want to explore both **Python** and **Bash scripting** through simple, well-documented, and beginner-friendly examples.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What’s Inside?
+- 🐍 **Python examples** → Variables, loops, functions, operators, and small projects  
+- 🐚 **Bash scripting examples** → Shell basics, loops, functions, file operations, and automation  
+- 💡 Focus on **clarity and simplicity**, making it easy for beginners to follow  
+- 🎯 Helpful for students preparing for **OSCP / cybersecurity basics** as scripting is an essential skill  
+
+---
