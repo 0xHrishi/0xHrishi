@@ -7,7 +7,7 @@ This repository is designed for **learners** who want to explore both **Python**
 
 ## 📌 What’s Inside?
 - 🐍 **Python examples** → Variables, loops, functions, operators, and small projects  
-- 🐚 **Bash scripting examples** → Shell basics, loops, functions, file operations, and automation  
+- 🐚 **[Bash scripting examples](https://github.com/0xHrishi/Bash_Scripting)** → Shell basics, loops, functions, file operations, and automation  
 - 💡 Focus on **clarity and simplicity**, making it easy for beginners to follow  
 - 🎯 Helpful for students preparing for **OSCP / cybersecurity basics** as scripting is an essential skill  
 
