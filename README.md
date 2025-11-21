@@ -6,7 +6,7 @@ This repository is designed for **learners** who want to explore both **Python**
 ---
 
 ## 📌 What’s Inside?
-- 🐍 **Python examples** → Variables, loops, functions, operators, and small projects  
+- 🐍 **[Python examples](https://github.com/0xHrishi/python3-beginners-guide/blob/main/README.md)** → Variables, loops, functions, operators, and small projects  
 - 🐚 **[Bash scripting](https://github.com/0xHrishi/Bash_Scripting/blob/main/README.md)** → Shell basics, loops, functions, file operations, and automation  
 - 💡 Focus on **clarity and simplicity**, making it easy for beginners to follow  
 - 🎯 Helpful for students preparing for **OSCP / cybersecurity basics** as scripting is an essential skill  
